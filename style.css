@@ -1,0 +1,63 @@
+body {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.main_container {
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.container {
+    margin:20px;
+}
+
+.header {
+    margin: 20px;
+}
+
+.login{
+    margin: 20px;
+}
+
+.register{
+    margin: 20px;
+}
+
+#invalidErr {
+    margin-left:  20px;
+}
+
+.dashboard_products{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.dashboard_container{
+    background-color: white;
+    width: 40vw;
+    padding: 20px;
+}
+
+.edit_container{
+    background-color: white;
+    margin: 20px;
+    padding: 0px 20px 15px 20px;
+}
+
+.back_dashboard{
+    margin-top: 10px;
+}
+
+.submit{
+    margin-top: 5px;
+}
